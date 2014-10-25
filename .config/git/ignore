@@ -1,0 +1,9 @@
+.cache
+.tox
+__pycache__
+dist
+*.egg-info
+*.pyc
+*.egg
+venv
+.DS_Store

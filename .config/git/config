@@ -1,0 +1,10 @@
+[user]
+    name = Vladimir Keleshev
+    email = vladimir@keleshev.com
+[color]
+    ui = true
+    diff = auto
+    status = auto
+    branch = auto
+[core]
+    excludesfile = /Users/vladimir/.config/git/ignore
